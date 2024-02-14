@@ -21,3 +21,6 @@ Start ThorClient Software,
 Press start 
 Ensure that remote client checkbox is ticked in Thorimage software "Capture" screen 
 PC will now wait for VS PC input (triggered by Master PC input).
+
+Authorship and contributions: 
+Codes were written by a freelancer under direction of Rosie Craddock 2024. Codes were later ammended by Rosie Craddock for bug fixing and optimisation
