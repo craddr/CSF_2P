@@ -1,0 +1,16 @@
+D:\2p_PC\rosie-scripts-src-1.7\rosie-scripts-src-1.7\ThorClient\ThorClient\bin\Debug\ThorClient.exe.config
+D:\2p_PC\rosie-scripts-src-1.7\rosie-scripts-src-1.7\ThorClient\ThorClient\bin\Debug\ThorClient.exe
+D:\2p_PC\rosie-scripts-src-1.7\rosie-scripts-src-1.7\ThorClient\ThorClient\bin\Debug\ThorClient.pdb
+D:\2p_PC\rosie-scripts-src-1.7\rosie-scripts-src-1.7\ThorClient\ThorClient\obj\Debug\ThorClient.csproj.AssemblyReference.cache
+D:\2p_PC\rosie-scripts-src-1.7\rosie-scripts-src-1.7\ThorClient\ThorClient\obj\Debug\MainWindow.g.cs
+D:\2p_PC\rosie-scripts-src-1.7\rosie-scripts-src-1.7\ThorClient\ThorClient\obj\Debug\App.g.cs
+D:\2p_PC\rosie-scripts-src-1.7\rosie-scripts-src-1.7\ThorClient\ThorClient\obj\Debug\ThorClient_MarkupCompile.cache
+D:\2p_PC\rosie-scripts-src-1.7\rosie-scripts-src-1.7\ThorClient\ThorClient\obj\Debug\ThorClient_MarkupCompile.lref
+D:\2p_PC\rosie-scripts-src-1.7\rosie-scripts-src-1.7\ThorClient\ThorClient\obj\Debug\App.baml
+D:\2p_PC\rosie-scripts-src-1.7\rosie-scripts-src-1.7\ThorClient\ThorClient\obj\Debug\MainWindow.baml
+D:\2p_PC\rosie-scripts-src-1.7\rosie-scripts-src-1.7\ThorClient\ThorClient\obj\Debug\ThorClient.g.resources
+D:\2p_PC\rosie-scripts-src-1.7\rosie-scripts-src-1.7\ThorClient\ThorClient\obj\Debug\ThorClient.Properties.Resources.resources
+D:\2p_PC\rosie-scripts-src-1.7\rosie-scripts-src-1.7\ThorClient\ThorClient\obj\Debug\ThorClient.csproj.GenerateResource.cache
+D:\2p_PC\rosie-scripts-src-1.7\rosie-scripts-src-1.7\ThorClient\ThorClient\obj\Debug\ThorClient.csproj.CoreCompileInputs.cache
+D:\2p_PC\rosie-scripts-src-1.7\rosie-scripts-src-1.7\ThorClient\ThorClient\obj\Debug\ThorClient.exe
+D:\2p_PC\rosie-scripts-src-1.7\rosie-scripts-src-1.7\ThorClient\ThorClient\obj\Debug\ThorClient.pdb
